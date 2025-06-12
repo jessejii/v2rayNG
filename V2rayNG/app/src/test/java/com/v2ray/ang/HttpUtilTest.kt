@@ -1,6 +1,6 @@
-package com.v2ray.ang
+package com.rewode.forxy
 
-import com.v2ray.ang.util.HttpUtil
+import com.rewode.forxy.util.HttpUtil
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
